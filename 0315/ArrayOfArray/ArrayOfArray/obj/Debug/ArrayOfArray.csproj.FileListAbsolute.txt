@@ -1,0 +1,7 @@
+C:\Users\yunh\source\repos\ArrayOfArray\ArrayOfArray\bin\Debug\ArrayOfArray.exe.config
+C:\Users\yunh\source\repos\ArrayOfArray\ArrayOfArray\bin\Debug\ArrayOfArray.exe
+C:\Users\yunh\source\repos\ArrayOfArray\ArrayOfArray\bin\Debug\ArrayOfArray.pdb
+C:\Users\yunh\source\repos\ArrayOfArray\ArrayOfArray\obj\Debug\ArrayOfArray.csprojAssemblyReference.cache
+C:\Users\yunh\source\repos\ArrayOfArray\ArrayOfArray\obj\Debug\ArrayOfArray.csproj.CoreCompileInputs.cache
+C:\Users\yunh\source\repos\ArrayOfArray\ArrayOfArray\obj\Debug\ArrayOfArray.exe
+C:\Users\yunh\source\repos\ArrayOfArray\ArrayOfArray\obj\Debug\ArrayOfArray.pdb

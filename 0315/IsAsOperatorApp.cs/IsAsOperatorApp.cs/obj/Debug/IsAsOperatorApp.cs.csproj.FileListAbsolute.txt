@@ -1,0 +1,7 @@
+C:\Users\yunh\source\repos\IsAsOperatorApp.cs\IsAsOperatorApp.cs\obj\Debug\IsAsOperatorApp.cs.csprojAssemblyReference.cache
+C:\Users\yunh\source\repos\IsAsOperatorApp.cs\IsAsOperatorApp.cs\obj\Debug\IsAsOperatorApp.cs.csproj.CoreCompileInputs.cache
+C:\Users\yunh\source\repos\IsAsOperatorApp.cs\IsAsOperatorApp.cs\bin\Debug\IsAsOperatorApp.cs.exe.config
+C:\Users\yunh\source\repos\IsAsOperatorApp.cs\IsAsOperatorApp.cs\bin\Debug\IsAsOperatorApp.cs.exe
+C:\Users\yunh\source\repos\IsAsOperatorApp.cs\IsAsOperatorApp.cs\bin\Debug\IsAsOperatorApp.cs.pdb
+C:\Users\yunh\source\repos\IsAsOperatorApp.cs\IsAsOperatorApp.cs\obj\Debug\IsAsOperatorApp.cs.exe
+C:\Users\yunh\source\repos\IsAsOperatorApp.cs\IsAsOperatorApp.cs\obj\Debug\IsAsOperatorApp.cs.pdb
